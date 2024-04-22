@@ -1,3 +1,5 @@
+// rethrow is important to handling exceptions in programs. often, a function has no way of completing its assigned task after exception is thrown out
+
 void test()
 {
       try {
