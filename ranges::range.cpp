@@ -5,6 +5,7 @@
 #include <vector>
 
 Range::Range(int mn, int mx);
+  // precondition: mn <= mx
   :  _min(mn), _max(mx)
 
 int main();
